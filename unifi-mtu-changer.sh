@@ -1,5 +1,4 @@
 #!/bin/bash
-sleep 60
 # Path to the configuration file
 FILE="/etc/ppp/peers/ppp0"
 
